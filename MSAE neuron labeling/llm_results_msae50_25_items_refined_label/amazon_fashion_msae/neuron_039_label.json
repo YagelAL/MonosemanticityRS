@@ -1,0 +1,15 @@
+{
+  "neuron_id": 39,
+  "broad_label": "Women's fashion & lifestyle",
+  "refined_label": "Women's fashion & lifestyle — footwear, tops & accessories",
+  "description": "This neuron strongly activates for women's apparel and accessories, with emphasis on footwear (boots, sneakers, sandals), tops (tunics, camis, cardigans), and accessories (jewelry, watches, bags). While a few men's items appear, the dominant pattern is women's fashion across multiple categories.",
+  "confidence": "high",
+  "evidence": [
+    "Women > Shoes (boots, sneakers, flip-flops)",
+    "Women > Clothing > Tops, Tees & Blouses",
+    "Women > Jewelry (necklaces, earrings)",
+    "Women > Watches",
+    "Women > Clothing > Dresses",
+    "Women > Clothing > Sweaters > Cardigans"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "neuron_id": 49,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — everyday basics & body accessories",
+  "description": "This neuron activates for a diverse mix of clothing, shoes, and accessories spanning women's, men's, kids, and baby categories, with emphasis on everyday essentials like socks, underwear, basic tops, and body jewelry/piercings.",
+  "confidence": "medium",
+  "evidence": [
+    "socks across demographics (women's, men's, baby)",
+    "body jewelry and piercing items",
+    "underwear and bras",
+    "basic t-shirts and tops",
+    "accessories like earrings and keychains",
+    "footwear across genders"
+  ]
+}

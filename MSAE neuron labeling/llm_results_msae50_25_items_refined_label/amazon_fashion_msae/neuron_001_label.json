@@ -1,0 +1,15 @@
+{
+  "neuron_id": 1,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — mixed family apparel & footwear",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry department, spanning women's, men's, girls', and baby apparel, footwear (boots, sneakers, clogs), jewelry (earrings, necklaces), and accessories (umbrellas, backpacks, watches). No single subcategory dominates.",
+  "confidence": "high",
+  "evidence": [
+    "Women > Clothing",
+    "Men > Clothing",
+    "Girls > Clothing",
+    "Women > Shoes",
+    "Men > Shoes",
+    "Women > Jewelry"
+  ]
+}

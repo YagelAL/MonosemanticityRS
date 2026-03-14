@@ -1,0 +1,16 @@
+{
+  "neuron_id": 36,
+  "broad_label": "Mixed clothing, shoes & jewelry",
+  "refined_label": "Mixed clothing, shoes & jewelry — diverse categories (men's/women's/boys' apparel, footwear, jewelry, accessories)",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry department without a specific focus, spanning women's jewelry and bras, men's jeans and sweaters, boys' tracksuits, various footwear types, and accessory organizers.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Jewelry > Earrings",
+    "Women > Jewelry > Bracelets",
+    "Men > Clothing > Jeans",
+    "Women > Clothing > Lingerie > Bras",
+    "Men > Shoes",
+    "Watch Accessories",
+    "Boys > Clothing"
+  ]
+}

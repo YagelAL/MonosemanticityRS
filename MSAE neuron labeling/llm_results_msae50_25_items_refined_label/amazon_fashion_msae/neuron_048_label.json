@@ -1,0 +1,14 @@
+{
+  "neuron_id": 48,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — women's tops & casual wear focus",
+  "description": "This neuron activates strongly for a diverse mix of clothing and accessories across demographics, but shows a notable concentration on women's tops (polos, tunics, blouses) and casual wear items including dresses and accessories.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Tops, Tees & Blouses (multiple)",
+    "Women > Clothing > Dresses > Casual",
+    "Tunics appearing repeatedly",
+    "Crossbody Bags (2 items)",
+    "Mixed demographics: Women, Men, Girls, Boys, Baby"
+  ]
+}

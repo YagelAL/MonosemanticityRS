@@ -1,0 +1,15 @@
+{
+  "neuron_id": 29,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed family clothing & footwear",
+  "description": "This neuron activates broadly across clothing and footwear for all demographics including men, women, girls, and baby, spanning categories from casual pants and sweaters to shoes, boots, and activewear.",
+  "confidence": "high",
+  "evidence": [
+    "Men > Shoes > Slippers",
+    "Women > Clothing > Sweaters",
+    "Baby > Baby Girls > Clothing",
+    "Girls > Shoes > Sneakers",
+    "Women > Shoes > Boots",
+    "Men > Clothing > Pants"
+  ]
+}

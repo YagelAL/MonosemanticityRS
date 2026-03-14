@@ -1,0 +1,15 @@
+{
+  "neuron_id": 15,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — mixed gender apparel & accessories",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry department with no specific subcategory focus, spanning men's and women's clothing, footwear, watches, jewelry, and accessories in roughly equal measure.",
+  "confidence": "high",
+  "evidence": [
+    "Men's Watches > Wrist Watches",
+    "Women's Clothing > Tops, Tees & Blouses",
+    "Women's Jewelry > Earrings/Necklaces",
+    "Men's Clothing > Shirts/Suits",
+    "Women's Shoes > Pumps/Athletic",
+    "Men's Accessories > Gloves/Scarves"
+  ]
+}

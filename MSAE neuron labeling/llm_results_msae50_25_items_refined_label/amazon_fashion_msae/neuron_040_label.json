@@ -1,0 +1,15 @@
+{
+  "neuron_id": 40,
+  "broad_label": "Mixed demographic apparel & footwear",
+  "refined_label": "Mixed demographic apparel & footwear — cross-gender casual wear",
+  "description": "This neuron activates broadly across clothing, shoes, and accessories spanning women's, men's, boys', and baby categories with no single dominant demographic. Items include casual footwear (flats, slippers, loafers), everyday clothing (sweaters, tops, pants), and accessories (jewelry, bags).",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Shoes",
+    "Men > Shoes",
+    "Boys > Clothing",
+    "Women > Clothing",
+    "Men > Clothing",
+    "Baby > Baby Girls > Shoes"
+  ]
+}

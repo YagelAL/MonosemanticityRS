@@ -1,0 +1,15 @@
+{
+  "neuron_id": 28,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender footwear, wallets & outerwear",
+  "description": "This neuron activates broadly across the Clothing, Shoes & Jewelry category with no single dominant subcategory, spanning men's and women's shoes (running, boots, golf), wallets/card holders, outerwear (jackets, hoodies), and various accessories across all demographics.",
+  "confidence": "medium",
+  "evidence": [
+    "Men's Shoes > Athletic",
+    "Women > Shoes > Boots",
+    "Wallets, Card Cases & Money Organizers",
+    "Women > Clothing > Coats, Jackets & Vests",
+    "Women > Accessories",
+    "Men > Accessories"
+  ]
+}

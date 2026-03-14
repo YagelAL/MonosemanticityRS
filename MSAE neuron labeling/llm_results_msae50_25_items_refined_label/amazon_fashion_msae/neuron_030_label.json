@@ -1,0 +1,15 @@
+{
+  "neuron_id": 30,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender footwear & activewear",
+  "description": "This neuron activates broadly across clothing, shoes, and accessories for all demographics (women, men, girls, kids), with notable emphasis on footwear (boots, sandals, sneakers, oxfords) and activewear/athletic items (yoga pants, cycling gloves, arm warmers).",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Shoes > Sandals",
+    "Women > Shoes > Boots",
+    "Men > Shoes > Oxfords",
+    "Women > Clothing > Active",
+    "Sport Specific Clothing > Cycling",
+    "Girls > Shoes > Sneakers"
+  ]
+}

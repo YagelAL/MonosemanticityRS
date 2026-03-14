@@ -1,0 +1,15 @@
+{
+  "neuron_id": 37,
+  "broad_label": "Mixed clothing, shoes & jewelry",
+  "refined_label": "Mixed clothing, shoes & jewelry — diverse demographics (men, women, kids)",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category with no specific demographic or product type focus. Items span men's watches and shoes, women's sweaters and jewelry, boys' shirts, girls' sandals, and unisex accessories.",
+  "confidence": "high",
+  "evidence": [
+    "Men > Watches",
+    "Women > Clothing > Sweaters",
+    "Boys > Clothing",
+    "Girls > Shoes > Sandals",
+    "Women > Jewelry",
+    "Men > Shoes"
+  ]
+}

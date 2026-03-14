@@ -1,0 +1,15 @@
+{
+  "neuron_id": 13,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — mixed apparel and accessories (women's dresses, men's activewear, footwear)",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category with no specific subcategory focus. Items span women's dresses, men's athletic wear, shoes (bowling, boots, sandals), jewelry (necklaces, rings, charms), robes, swimwear, and travel accessories.",
+  "confidence": "high",
+  "evidence": [
+    "Women > Clothing > Dresses",
+    "Men > Clothing > Active",
+    "Women > Shoes",
+    "Men > Shoes",
+    "Women > Jewelry",
+    "Costumes & Accessories"
+  ]
+}

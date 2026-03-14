@@ -1,0 +1,15 @@
+{
+  "neuron_id": 5,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — socks, underwear & basics",
+  "description": "This neuron activates strongly for everyday basics and essentials across demographics, with a notable emphasis on socks (athletic, casual, knee-high), underwear (bras, boxer briefs, thermal base layers), and comfortable everyday items like slippers and basic tops.",
+  "confidence": "medium",
+  "evidence": [
+    "athletic socks (multiple brands/genders)",
+    "everyday bras (multiple items)",
+    "slippers for women",
+    "boxer briefs",
+    "thermal underwear",
+    "basic t-shirts and tops"
+  ]
+}

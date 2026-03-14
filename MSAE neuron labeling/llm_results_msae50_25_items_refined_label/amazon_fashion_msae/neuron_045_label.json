@@ -1,0 +1,15 @@
+{
+  "neuron_id": 45,
+  "broad_label": "Women's fashion essentials",
+  "refined_label": "Women's fashion essentials — tops, footwear & accessories",
+  "description": "This neuron strongly activates for women's clothing items including tops (blouses, tunics, t-shirts), footwear (sandals, pumps, athletic shoes), and accessories (jewelry, socks, scarves), with occasional men's and novelty items mixed in.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Tops, Tees & Blouses",
+    "Women > Shoes > Sandals",
+    "Women > Jewelry > Earrings",
+    "Women > Clothing > Active > Athletic Socks",
+    "Women > Accessories > Scarves",
+    "Women > Shoes > Pumps"
+  ]
+}

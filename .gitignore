@@ -1,0 +1,5 @@
+# Exclude CSV files
+*.csv
+
+# Exclude large files (>100MB, GitHub limit)
+items_metadata.jsonl

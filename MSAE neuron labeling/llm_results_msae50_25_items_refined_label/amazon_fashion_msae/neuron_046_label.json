@@ -1,0 +1,15 @@
+{
+  "neuron_id": 46,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — diverse everyday fashion items",
+  "description": "This neuron activates broadly across men's, women's, and unisex clothing, shoes, jewelry, and accessories with no single dominant category. Items span dress shoes, blouses, body jewelry, handbags, boots, jeans, and novelty socks across all demographics.",
+  "confidence": "medium",
+  "evidence": [
+    "Men > Shoes > Oxfords",
+    "Women > Clothing > Tops, Tees & Blouses",
+    "Women > Jewelry > Body Jewelry",
+    "Men > Jewelry > Necklaces",
+    "Women > Shoes > Boots",
+    "Novelty > Socks"
+  ]
+}

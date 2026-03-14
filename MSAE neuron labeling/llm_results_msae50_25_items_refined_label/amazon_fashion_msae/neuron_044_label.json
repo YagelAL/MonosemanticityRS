@@ -1,0 +1,15 @@
+{
+  "neuron_id": 44,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — outerwear, casual tops & footwear",
+  "description": "This neuron activates across a wide range of clothing categories spanning women's, men's, girls', boys', and baby apparel, with notable emphasis on outerwear (jackets, cardigans, blazers), casual tops, and footwear (slippers, sandals, athletic shoes). Accessories like hats, watch tools, and luggage also appear.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Sweaters/Cardigans/Blazers/Jackets",
+    "Women > Shoes > Slippers/Sandals/Athletic",
+    "Men > Clothing/Accessories",
+    "Girls/Boys > Clothing > Jackets",
+    "Baby > Clothing > Sweaters",
+    "Luggage & Travel Gear"
+  ]
+}

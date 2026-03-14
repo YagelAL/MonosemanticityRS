@@ -1,0 +1,16 @@
+{
+  "neuron_id": 34,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — diverse lifestyle items (bags, footwear, jewelry, basics)",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category with no specific demographic or product focus, spanning travel bags, women's boots, baby dresses, men's watches, luggage accessories, and various footwear and jewelry items.",
+  "confidence": "high",
+  "evidence": [
+    "Travel Duffels",
+    "Women > Shoes",
+    "Baby Girls > Dresses",
+    "Men > Watches",
+    "Luggage Tags",
+    "Handbags & Wallets",
+    "Jewelry > Necklaces"
+  ]
+}

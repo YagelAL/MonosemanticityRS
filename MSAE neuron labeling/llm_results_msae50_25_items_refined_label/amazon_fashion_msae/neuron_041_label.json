@@ -1,0 +1,15 @@
+{
+  "neuron_id": 41,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — women-dominant with mixed categories",
+  "description": "This neuron activates broadly across clothing, shoes, and jewelry categories spanning women's, men's, girls', and boys' items, with a strong emphasis on women's products including tops, dresses, handbags, jewelry, and footwear.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing",
+    "Women > Handbags & Wallets",
+    "Women > Jewelry > Earrings",
+    "Men > Clothing",
+    "Costumes & Accessories > Wigs",
+    "Women > Shoes"
+  ]
+}

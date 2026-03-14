@@ -1,0 +1,15 @@
+{
+  "neuron_id": 31,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender casual wear",
+  "description": "This neuron activates broadly across men's and women's casual clothing items including t-shirts, tanks, shorts, pants, swimwear, and accessories like jewelry and organizers. The items span multiple demographics without a strong single-category focus.",
+  "confidence": "medium",
+  "evidence": [
+    "Men's T-Shirts and tanks",
+    "Women's pants and leggings",
+    "Swimwear one-pieces",
+    "Jewelry earrings and necklaces",
+    "Men's and women's casual shoes",
+    "Active wear shorts and tops"
+  ]
+}

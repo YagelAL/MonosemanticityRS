@@ -1,0 +1,15 @@
+{
+  "neuron_id": 25,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed demographics (women, men, kids)",
+  "description": "This neuron activates broadly across clothing, shoes, jewelry, and accessories spanning women's, men's, boys', girls', and baby categories with no single dominant demographic or product type.",
+  "confidence": "high",
+  "evidence": [
+    "Women > Jewelry",
+    "Women > Shoes",
+    "Men > Clothing",
+    "Boys > Shoes",
+    "Girls > Shoes",
+    "Baby > Shoes"
+  ]
+}

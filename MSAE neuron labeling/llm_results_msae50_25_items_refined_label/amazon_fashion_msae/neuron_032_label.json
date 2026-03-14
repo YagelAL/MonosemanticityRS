@@ -1,0 +1,15 @@
+{
+  "neuron_id": 32,
+  "broad_label": "Women's apparel & accessories",
+  "refined_label": "Women's apparel & accessories — footwear, casual wear, and functional items",
+  "description": "This neuron strongly activates for women's clothing and accessories with emphasis on comfortable footwear (sandals, athletic shoes, boots), casual everyday wear (sweatshirts, dresses, blouses), and functional accessories (hats, socks, eyewear). The items span practical, comfort-oriented women's products.",
+  "confidence": "high",
+  "evidence": [
+    "Women > Shoes > Sandals",
+    "Women > Clothing > Dresses",
+    "Women > Accessories > Hats & Caps",
+    "Women > Shoes > Athletic",
+    "Women > Clothing > Fashion Hoodies & Sweatshirts",
+    "Women > Accessories > Sunglasses"
+  ]
+}

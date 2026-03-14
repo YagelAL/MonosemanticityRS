@@ -1,0 +1,15 @@
+{
+  "neuron_id": 42,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — footwear & leather goods emphasis",
+  "description": "This neuron activates across a diverse mix of clothing, shoes, and accessories spanning women's, men's, girls', and boys' categories, with notable emphasis on footwear (oxfords, hiking shoes, boots, flats, sandals) and leather accessories (wallets, bracelets).",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Accessories > Wallets",
+    "Men > Shoes > Oxfords/Boots/Hiking",
+    "Girls > Shoes > Flats/Boots",
+    "Boys > Shoes > Water Shoes",
+    "Women > Jewelry > Bracelets/Earrings",
+    "leather wallets and bracelets"
+  ]
+}

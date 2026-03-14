@@ -1,0 +1,15 @@
+{
+  "neuron_id": 22,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender everyday wear",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category without a specific focus, spanning men's work shoes, women's clothing (skirts, coats, tops), accessories (sunglasses, bags, hats), footwear for multiple demographics, and even luggage and costume wigs.",
+  "confidence": "medium",
+  "evidence": [
+    "Men > Clothing > Shirts",
+    "Women > Clothing > Coats, Jackets & Vests",
+    "Women > Shoes",
+    "Accessories > Hats & Caps",
+    "Handbags & Wallets",
+    "Costumes & Accessories > Wigs"
+  ]
+}

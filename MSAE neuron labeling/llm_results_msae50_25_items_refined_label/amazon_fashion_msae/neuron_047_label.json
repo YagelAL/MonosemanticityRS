@@ -1,0 +1,15 @@
+{
+  "neuron_id": 47,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — activewear, watches & everyday essentials",
+  "description": "This neuron activates strongly for a diverse mix of men's and women's clothing, shoes, and accessories with notable emphasis on activewear (leggings, athletic shorts, workout hoodies), watches (men's and women's wrist watches), and everyday functional items like socks and basic tees.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Active",
+    "Men > Watches > Wrist Watches",
+    "Women > Shoes > Athletic > Walking",
+    "Men > Clothing > Active",
+    "Women > Jewelry",
+    "Socks & basic apparel items"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "neuron_id": 27,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender footwear & casual wear",
+  "description": "This neuron activates broadly across clothing, shoes, and jewelry categories with no single dominant subcategory. The items span men's and women's footwear (hiking boots, loafers, sneakers, sandals), casual clothing (t-shirts, jackets, sweaters), and accessories (wallets, jewelry), representing a general mixed-gender apparel pattern.",
+  "confidence": "medium",
+  "evidence": [
+    "Men > Shoes",
+    "Women > Shoes",
+    "Women > Clothing",
+    "Fashion Sneakers",
+    "Loafers & Slip-Ons",
+    "Coats, Jackets & Vests"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "neuron_id": 20,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — silicone/rubber rings & general apparel mix",
+  "description": "This neuron activates strongly for silicone and rubber wedding rings/bands for both men and women, alongside a diverse mix of general apparel items including dresses, shoes, watches, and accessories across all demographics.",
+  "confidence": "medium",
+  "evidence": [
+    "silicone wedding ring",
+    "rubber wedding band",
+    "Women > Jewelry > Wedding & Engagement > Wedding Bands",
+    "Men > Jewelry > Rings",
+    "Women > Clothing > Dresses",
+    "Women > Shoes"
+  ]
+}

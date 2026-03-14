@@ -1,0 +1,15 @@
+{
+  "neuron_id": 26,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender footwear & everyday basics",
+  "description": "This neuron activates broadly across clothing, shoes, and accessories for all demographics (men, women, girls, boys, baby). There is a notable emphasis on footwear (sneakers, sandals, hiking shoes) alongside everyday basics like socks, underwear, and casual tops.",
+  "confidence": "medium",
+  "evidence": [
+    "Shoes > Sneakers",
+    "Shoes > Sandals",
+    "Men > Shoes",
+    "Women > Shoes",
+    "Socks",
+    "Baby > Clothing"
+  ]
+}

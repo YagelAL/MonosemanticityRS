@@ -1,0 +1,15 @@
+{
+  "neuron_id": 3,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — women's apparel & accessories dominant",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category, with a notable emphasis on women's items including dresses, swimwear, handbags, lingerie, and shoes. Men's and baby items also appear but are less frequent.",
+  "confidence": "high",
+  "evidence": [
+    "Women > Clothing > Dresses",
+    "Women > Handbags & Wallets",
+    "Women > Clothing > Lingerie",
+    "Women > Shoes",
+    "Men > Clothing",
+    "Clothing, Shoes & Jewelry root category"
+  ]
+}

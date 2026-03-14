@@ -1,0 +1,15 @@
+{
+  "neuron_id": 6,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — mixed accessories & apparel basics",
+  "description": "This neuron activates broadly across the Clothing, Shoes & Jewelry category with no dominant subcategory, spanning travel accessories, hats, shoes, sunglasses, tops, jewelry, and work uniforms. The items represent a diverse mix of everyday apparel basics and functional accessories for men, women, and boys.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Tops, Tees & Blouses",
+    "Men > Accessories > Sunglasses",
+    "Women > Jewelry",
+    "Luggage & Travel Gear > Travel Accessories",
+    "Boot Shop > Men",
+    "Uniforms, Work & Safety"
+  ]
+}

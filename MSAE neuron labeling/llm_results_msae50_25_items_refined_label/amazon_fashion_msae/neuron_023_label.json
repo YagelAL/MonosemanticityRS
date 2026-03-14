@@ -1,0 +1,16 @@
+{
+  "neuron_id": 23,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed demographics (men, women, kids, baby)",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category with no specific demographic or product type focus. Items span baby clothing, men's thermal underwear, women's shoes, kids' watches, and accessories for all ages.",
+  "confidence": "high",
+  "evidence": [
+    "Baby > Baby Girls > Clothing",
+    "Men > Clothing > Underwear",
+    "Women > Shoes",
+    "Boys > Clothing",
+    "Girls > Shoes",
+    "Kids Watch",
+    "Men > Accessories > Wallets"
+  ]
+}

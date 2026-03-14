@@ -1,0 +1,15 @@
+{
+  "neuron_id": 35,
+  "broad_label": "General apparel & accessories",
+  "refined_label": "General apparel & accessories — mixed gender casual/functional items",
+  "description": "This neuron activates broadly across men's, women's, and children's clothing, shoes, and accessories with no single dominant category. Items span athletic shoes, cargo shorts/pants, dresses, jewelry storage, and travel accessories across all demographics.",
+  "confidence": "medium",
+  "evidence": [
+    "Men's cargo shorts (multiple)",
+    "Mixed gender shoes (sneakers, boots, oxfords)",
+    "Women's clothing (dresses, jeans, tops)",
+    "Children's shoes and clothing",
+    "Jewelry accessories and organizers",
+    "Travel/utility items (toiletry bag, packing organizers)"
+  ]
+}

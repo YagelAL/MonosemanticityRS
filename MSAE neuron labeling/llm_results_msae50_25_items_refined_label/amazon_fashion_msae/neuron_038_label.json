@@ -1,0 +1,15 @@
+{
+  "neuron_id": 38,
+  "broad_label": "Mixed apparel & accessories",
+  "refined_label": "Mixed apparel & accessories — women's fashion focus with novelty/occasion items",
+  "description": "This neuron activates broadly across clothing, shoes, and jewelry categories with a strong emphasis on women's fashion items (dresses, tops, swimwear, lingerie) alongside novelty pieces and occasion-specific items like tuxedo shirts and sequin waistcoats.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Dresses",
+    "Women > Clothing > Tops, Tees & Blouses",
+    "Women > Accessories",
+    "Novelty & More > Clothing",
+    "Men > Clothing > Dress Shirts/Suits",
+    "Women > Jewelry"
+  ]
+}

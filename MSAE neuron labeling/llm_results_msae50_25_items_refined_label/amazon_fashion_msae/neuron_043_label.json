@@ -1,0 +1,15 @@
+{
+  "neuron_id": 43,
+  "broad_label": "Multi-demographic apparel & accessories",
+  "refined_label": "Multi-demographic apparel & accessories — diverse everyday items",
+  "description": "This neuron activates broadly across clothing, shoes, jewelry, and accessories for men, women, and children with no single dominant subcategory. Items span rainwear, footwear, tops, sleepwear, jewelry, watches, and novelty accessories across all demographics.",
+  "confidence": "medium",
+  "evidence": [
+    "Women > Clothing > Tops",
+    "Men > Shoes",
+    "Women > Jewelry",
+    "Girls > Clothing",
+    "Boys > Accessories",
+    "Novelty & More > Clothing"
+  ]
+}

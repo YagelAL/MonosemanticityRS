@@ -1,0 +1,15 @@
+{
+  "neuron_id": 2,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — mixed gender apparel & footwear",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category without a specific demographic or product focus. Items span men's jeans and shorts, women's leggings and sandals, kids' shoes and girls' clothing, plus jewelry and accessories.",
+  "confidence": "medium",
+  "evidence": [
+    "Men > Clothing (jeans, shorts, sweaters)",
+    "Women > Clothing (leggings, rompers, sweaters)",
+    "Women > Shoes > Sandals",
+    "Girls > Clothing and Shoes",
+    "Men > Jewelry > Necklaces",
+    "Women > Jewelry > Earrings"
+  ]
+}

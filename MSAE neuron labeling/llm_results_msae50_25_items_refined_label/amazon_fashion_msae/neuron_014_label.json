@@ -1,0 +1,14 @@
+{
+  "neuron_id": 14,
+  "broad_label": "Clothing, Shoes & Jewelry",
+  "refined_label": "Clothing, Shoes & Jewelry — mixed gender footwear & apparel",
+  "description": "This neuron activates broadly across the entire Clothing, Shoes & Jewelry category with no specific subcategory focus, spanning men's and women's shoes (hiking boots, slippers, sandals, loafers), various apparel items (pants, dresses, swimwear, robes), and accessories (watches, bags, jewelry) for all demographics including kids and babies.",
+  "confidence": "high",
+  "evidence": [
+    "Men > Shoes (hiking boots, slippers, sandals, loafers)",
+    "Women > Clothing (dresses, swimwear, tights)",
+    "mixed demographics (Men, Women, Girls, Baby)",
+    "accessories (watches, bags, earrings)",
+    "Clothing, Shoes & Jewelry root category consistent across all items"
+  ]
+}
