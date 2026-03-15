@@ -11,7 +11,7 @@ Modern recommender systems based on neural networks are often "black boxes" — 
 - Train a Sparse Autoencoder (SAE, 50 hidden neurons) on MF user embeddings
 - Train a Matryoshka Sparse Autoencoder (MSAE) with multi-scale prefix training for richer representations
 - Label all 50 neurons with semantically meaningful fashion categories using an LLM
-- Compare SAE vs. MSAE in terms of recommendation quality and neuron interpretability
+- Compare SAE vs. MSAE in terms of recommendation quality.
 
 ## Results
 
