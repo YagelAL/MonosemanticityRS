@@ -69,7 +69,7 @@ pip install torch numpy pandas scipy scikit-learn matplotlib plotly
 
 ### Dataset
 
-The project uses the [Amazon Fashion](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/) dataset (ratings/reviews). Download the raw data and run `EDA_and_Matrix_Creation_Amazon/EDA_and_Matrix_Creation.ipynb` to generate the sparse user-item interaction matrix and mapping pickle files.
+The project uses the [Amazon Fashion](https://drive.google.com/drive/folders/1dDUIVTYkXN8y0XC-IhddOypjxe74Z69f?usp=drive_link) dataset (ratings/reviews). Download the raw data and run `EDA_and_Matrix_Creation_Amazon/EDA_and_Matrix_Creation.ipynb` to generate the sparse user-item interaction matrix and mapping pickle files.
 
 ## Usage
 
