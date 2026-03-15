@@ -102,7 +102,7 @@ Run the notebooks in the following order:
 
 ### Sparse Autoencoder (SAE)
 - Input: 20-dimensional MF user embedding
-- Hidden layer: 50 neurons with ReLU activation + L1 sparsity penalty
+- Hidden layer: 50 neurons with ReLU activation + L1 sparsity penalty, KL divergence and top K sparsity
 - Trained for 30 epochs
 
 ### Matryoshka Sparse Autoencoder (MSAE)
