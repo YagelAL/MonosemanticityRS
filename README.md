@@ -78,16 +78,10 @@ Run the notebooks in the following order:
 1. **`EDA_and_Matrix_Creation_Amazon/EDA_and_Matrix_Creation.ipynb`**  
    Loads the Amazon Fashion dataset, builds the sparse user-item interaction matrix (400K users × 182K items), and creates category mappings.
 
-2. **`Notebooks/MF_Training_and_Data_Pipeline.ipynb`**  
-   Prepares the training/test split with positive and negative sampling, and trains the Matrix Factorization model.
+2. **`Notebooks/MSAE_SAE_Amazon.ipynb`**  
+   Trains both the SAE and the Matryoshka SAE on MF user embeddings, compares recommendation quality metrics, and extracts top-activating items per neuron. Shows the neuron intervention after labeling.
 
-3. **`Notebooks/MF_Notebook.ipynb`**  
-   Detailed analysis of the trained MF model and its latent representations.
-
-4. **`Notebooks/MSAE_SAE_Amazon.ipynb`**  
-   Trains both the SAE and the Matryoshka SAE on MF user embeddings, compares recommendation quality metrics, and extracts top-activating items per neuron.
-
-5. **`MSAE neuron labeling/MSAE_Neuron_Labeling_Notebook.ipynb`**  
+3. **`MSAE neuron labeling/MSAE_Neuron_Labeling_Notebook.ipynb`**  
    Uses an LLM to generate semantic labels for each of the 50 learned neurons based on their top-activating products.
 
 ## Model Architecture
