@@ -29,32 +29,29 @@ The MSAE achieves modest but consistent improvements over the plain SAE across a
 
 ```
 MonosemanticityRS/
-├── Notebooks/                              # Main Jupyter notebooks
-│   ├── MF_Notebook.ipynb                   # Matrix Factorization analysis
-│   ├── MF_Training_and_Data_Pipeline.ipynb # Data pipeline & MF training
-│   └── MSAE_SAE_Amazon.ipynb               # SAE & MSAE training and comparison
+├── EDA_and_Matrix_Creation_Amazon/                                   # Exploratory data analysis
+│   ├── EDA_and_Matrix_Creation.ipynb                                 # EDA Notebook
+│   └── *.png                                                         # EDA analysis visualizations
+│   ├── user_item_matrix.npz                                          # Sparse matrix 
+│   └── Mapping Pickles/                                              # user/item/category index mappings
 │
-├── EDA_and_Matrix_Creation_Amazon/         # Exploratory data analysis
-│   ├── EDA_and_Matrix_Creation.ipynb       # Build user-item interaction matrix
-│   ├── user_item_matrix.npz                # Sparse matrix (400K users × 182K items)
-│   └── Mapping Pickles/                    # user/item/category index mappings
+├── MF_and_MSAE_Training/                                             # Training artifacts & Interventation & visualizations
+│   ├── MSAE_SAE_Amazon.ipynb                                         # Training and intervention Notebook
+│   └── *.png                                                         # Training & analysis visualizations
 │
-├── MSAE neuron labeling/                   # Neuron interpretation
-│   ├── MSAE_Neuron_Labeling_Notebook.ipynb # LLM-based neuron labeling workflow
-│   └── llm_results_msae50_25_items_refined_label/
-│       └── amazon_fashion_msae/            # 50 individual neuron label JSON files
+├── MSAE neuron labeling/                                             # Neuron interpretation
+│   ├── MSAE_Neuron_Labeling_Notebook.ipynb                           # LLM-based neuron labeling Notebook
+│   └── llm_results_msae50_25_items_refined_label/amazon_fashion_msae # 50 individual neuron label JSON files 
+│   └── msae_top500_items_per_neuron_50N.txt                          # Top 500 items for each MSAE latent neuron                 
 │
-├── MF_and_MSAE_Training/                   # Training artifacts & visualizations
-│   ├── all_neuron_labels.json              # Labels for all 50 neurons
-│   ├── mf_model.pkl                        # Trained MF model
-│   └── *.png                               # Training & analysis visualizations
+├── models/                                                           # Saved PyTorch model weights
+│   ├── sae_model.pth                                                 # Trained SAE
+│   └── mat_sae.pth                                                   # Trained Matryoshka SAE
+│   └── mf_model.pkl                                                  # Trained Matrix Factorization model
 │
-├── models/                                 # Saved PyTorch model weights
-│   ├── sae_model.pth                       # Trained SAE
-│   └── mat_sae.pth                         # Trained Matryoshka SAE
-│
-├── sae_training_11572697.txt               # SAE training log (30 epochs)
-└── matryoshka_training_11572697.txt        # MSAE training log (30 epochs)
+├── sae_training.txt                                                  # SAE training log 
+└── matryoshka_training.txt                                           # MSAE training log 
+└── Monosemanticity_in_Recommender_Systems.pdf                        # The project paper
 ```
 
 ## Setup
