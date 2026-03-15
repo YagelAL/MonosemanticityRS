@@ -23,7 +23,7 @@ Modern recommender systems based on neural networks are often "black boxes" — 
 | Precision@10 | 0.0011 | 0.0012 |
 | Recall@10 | 0.0057 | 0.0059 |
 
-The MSAE achieves modest but consistent improvements over the plain SAE across all metrics, while both yield 50 interpretable neurons labeled with distinct fashion categories (e.g., *"Women's apparel & accessories"*, *"Socks, underwear & basics"*).
+The MSAE achieves modest but consistent improvements over the plain SAE across all metrics.
 
 ## Repository Structure
 
